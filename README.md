@@ -1,5 +1,5 @@
 # Greek-Universities-Scores-Prediction
-Greetings, This small project of mine was created due to the fact that, a client of mine tasked me to create a site in which, a guest could see all university scores in greece. The fact that, I have some knowledge in AI and, In oerder to make the site even more valuable, I’ve decided to create this model.
+Greetings, this small project of mine was created due to the fact that, a client of mine tasked me to create a site in which, a guest could see all university scores in greece. The fact that, i have some knowledge in AI and, in order to make the site even more valuable, I’ve decided to create this model.
 
 ###  Data
 The data was gathered through various sites and files due to the fact that, there were no available data sets on some sites such as Kaggle.
