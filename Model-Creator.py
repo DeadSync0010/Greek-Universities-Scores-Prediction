@@ -14,7 +14,7 @@ if __name__ == "__main__":
     # Creating a data frame
     dfh = h2o.import_file("path")
 
-    # Spliting our data 80% training, 20% testing which are different each time
+    # Splitting our data 80% training, 20% testing which are different each time
     splits = dfh.split_frame(ratios=[0.8],seed=1)
 
     train = splits[0]
