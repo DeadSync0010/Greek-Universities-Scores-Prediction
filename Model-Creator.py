@@ -4,10 +4,7 @@ import h2o
 from h2o.automl import H2OAutoML
 
 
-
-
 if __name__ == "__main__":
-
     # Initialing h2o instance
     h2o.init()
     
